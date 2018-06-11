@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3b940e42854c42c84bbf213779c770d1",
+    "packages": [
+        {
+            "name": "spip/jquery_ui",
+            "version": "1.12.1",
+            "source": {
+                "type": "git",
+                "url": "https://git-spip.lerebooteux.fr/spip/jquery_ui.git",
+                "reference": "7594b0aacde50a96d4e8c63aeae125d4aed70adf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://composer-spip.lerebooteux.fr/files/spip/jquery_ui/spip-jquery_ui-1.12.1-579a07.zip",
+                "reference": "7594b0aacde50a96d4e8c63aeae125d4aed70adf",
+                "shasum": "40a396745882bfc82bcde832d3e26b11e74fe065"
+            },
+            "type": "spip-plugin",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Collectif SPIP",
+                    "email": "spip-dev@rezo.net"
+                }
+            ],
+            "description": "Animations, effets et widgets jQuery",
+            "time": "2018-06-07T06:18:40+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
